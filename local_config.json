@@ -1,0 +1,8 @@
+{
+  "model_path": "BAAI/Emu3.5",
+  "tokenizer_path": "./src/tokenizer_emu3_ibq",
+  "vq_path": "BAAI/Emu3.5-VisionTokenizer",
+  "output_dir": "./outputs/agar",
+  "hf_device": "auto",
+  "vq_device": "cuda:0"
+}
